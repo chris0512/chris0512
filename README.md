@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on improving my github page <br />
-🌱 I’m currently learning AI research and MERN stack <br />
+🌱 I’m currently learning Artificial Intelligence and MERN stack <br />
 ⚡ Fun fact: "Friends" is still my jam tv show. <br />
