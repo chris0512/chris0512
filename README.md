@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-🔭 I’m currently working on improving my github page
-🌱 I’m currently learning AI research and MERN stack  
-⚡ Fun fact: "Friends" is still my jam tv show.
+🔭 I’m currently working on improving my github page <br />
+🌱 I’m currently learning AI research and MERN stack <br />
+⚡ Fun fact: "Friends" is still my jam tv show. <br />
