@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on improving my github page <br />
 🌱 I’m currently learning Artificial Intelligence and MERN stack <br />
+👀 Check my blog: https://medium.com/@kyang3200 <br />
 ⚡ Fun fact: "Friends" is still my jam tv show. <br />
